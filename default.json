@@ -1,0 +1,8 @@
+{
+    "mongoURI": "mongodb+srv://jlutz110:KingMongo99$@jonnylutzdata.bgylllk.mongodb.net/",
+    "jwtSecret": "secret",
+    "CLOUDINARY_CLOUD_NAME": "deduwxk82",
+    "CLOUDINARY_API_KEY": "235169449299162",
+    "CLOUDINARY_API_SECRET": "OVGx5mXWP88TONBQgKxdXyEFVKk",
+    "CLOUDINARY_URL": "cloudinary://235169449299162:OVGx5mXWP88TONBQgKxdXyEFVKk@deduwxk82"
+  }
